@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SodaLit</string>
+    <string name="notification_setting">Notification Settings</string>
+    <string name="other_setting">Other Setting</string>
+    <string name="change_password">Change Password</string>
+    <string name="tell_a_friend">Tell a friend about sodalit</string>
+    <string name="send_feedback">Send Feedback</string>
+    <string name="support">Support</string>
+    <string name="how_it_work">How it Work?</string>
+    <string name="add_flat_vila">Add Flat/Vila</string>
+    <string name="mutenotification">Mute notification sounds</string>
+    <string name="eIntercom">e-Intercom</string>
+    <string name="notification_note"> Notification and call when there\'s an\n
+        univited visito at the gate</string>
+    <string name="e_intercomesetup"><u> e_Intercom Setup</u></string>
+    <string name="exter_exit">Entery/exitnotifications</string>
+    <string name="maid">Maid, cook, nanny etc.</string>
+    <string name="dailyhelps">Daily Helps</string>
+    <string name="yourguest">Your Guest</string>
+    <string name="deliverycabsandothers">Delivery, Cabs and Others</string>
+    <string name="pleasecheck"><![CDATA[Please check your phone setting and app notification(Sometimes battery saving app or auto start manager apps can restrict notifications ).]]></string>
+    <string name="settingTitle">Setting</string>
+    <string name="notification_setting_title">\"Notification Settings\"</string>
+    <string name="notreceiving_notification">Not receiving push notification?</string>
+    <string name="e_intercomesetup_adapter">\"e-Intercom Setup\"</string>
+    <string name="C13_address">C 13, ABC Parkview</string>
+</resources>
