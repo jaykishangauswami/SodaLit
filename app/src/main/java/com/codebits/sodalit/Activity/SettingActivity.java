@@ -1,4 +1,4 @@
-package com.codebits.sodalit;
+package com.codebits.sodalit.Activity;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -8,12 +8,11 @@ import android.view.ViewGroup;
 import android.widget.ExpandableListAdapter;
 import android.widget.ExpandableListView;
 import android.widget.LinearLayout;
-import android.widget.Switch;
 
+import com.codebits.sodalit.R;
 import com.codebits.sodalit.adapter.FlatExpandableAdapter;
-import com.codebits.sodalit.customview.ExpandableHeightListView;
 
-public class MainActivity extends AppCompatActivity implements View.OnClickListener {
+public class SettingActivity extends AppCompatActivity implements View.OnClickListener {
     LinearLayout llNotificationSetting, llChangePassword, llTellFriend, llFeedback, llsupport, llHowitworks, llFlatVila;
     ExpandableListView list_flatsetting;
 
@@ -93,7 +92,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     }
     @Override
     public void onClick(View v) {
-        Intent intent=new Intent(MainActivity.this,NotidficationSettingActivity.class);
+        Intent intent=new Intent(SettingActivity.this,NotidficationSettingActivity.class);
         switch (v.getId()) {
             case R.id.llNotificationSetting:
                 startActivity(intent);

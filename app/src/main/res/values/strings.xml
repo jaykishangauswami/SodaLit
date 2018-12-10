@@ -24,4 +24,40 @@
     <string name="notreceiving_notification">Not receiving push notification?</string>
     <string name="e_intercomesetup_adapter">\"e-Intercom Setup\"</string>
     <string name="C13_address">C 13, ABC Parkview</string>
+    <string name="title_activity_main_">Main_Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Profile name</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="my_sos">My Sos</string>
+    <string name="home">Home</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="activity_tab_title">Activity</string>
+    <string name="household_tab_title">Household</string>
+    <string name="community_tab_title">Community</string>
+    <string name="from_name">From Name</string>
+    <string name="mohan">mohan</string>
+    <string name="from_mobileno">From Mobile no</string>
+    <string name="mobileno">2147483647</string>
+    <string name="urgancy">Urgancy</string>
+    <string name="medium">Medium</string>
+    <string name="house_no">House No</string>
+    <string name="str_house_no">3232</string>
+    <string name="Reason">Reason</string>
+    <string name="waterflloding">Water flooding</string>
+    <string name="summary">Summary</string>
+    <string name="takenCare">Taken care</string>
+    <string name="cancel_sos">Cancel SOS</string>
+    <string name="ignore_taken_care">Ignore Taken care</string>
+    <string name="Sos_date">SOS Date</string>
+    <string name="str_sos_date">2018-12-05</string>
+    <string name="sos_time">SOS time</string>
+    <string name="str_sos_time">01:12:04</string>
+    <string name="add_emeregancy_tab">Add Emergancy</string>
+    <string name="list_emergancy_tab">List Emergancy Tab</string>
+    <string name="title_mysos">My Sos</string>
 </resources>

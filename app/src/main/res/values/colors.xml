@@ -12,4 +12,6 @@
     <color name="pink">#ff13d4</color>
     <color name="yellow">#ffef13</color>
     <color name="orange">#ffba1a</color>
+    <color name="side_menu_color">#242F34</color>
+    <color name="side_menu_color_Selected">#1d2629</color>
 </resources>

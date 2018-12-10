@@ -1,4 +1,4 @@
-package com.codebits.sodalit;
+package com.codebits.sodalit.Activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -7,6 +7,8 @@ import android.view.View;
 import android.widget.CompoundButton;
 import android.widget.FrameLayout;
 import android.widget.Switch;
+
+import com.codebits.sodalit.R;
 
 public class NotidficationSettingActivity extends AppCompatActivity {
     FrameLayout frameenable;

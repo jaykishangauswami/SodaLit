@@ -8,7 +8,7 @@ import android.widget.BaseExpandableListAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.codebits.sodalit.NotidficationSettingActivity;
+import com.codebits.sodalit.Activity.NotidficationSettingActivity;
 import com.codebits.sodalit.R;
 
 public class FlatExpandableAdapter extends BaseExpandableListAdapter {
