@@ -1,12 +1,9 @@
-package com.codebits.sodalit.customview;
+package com.riv.sodalit.customview;
 
 import android.content.Context;
 import android.util.AttributeSet;
 import android.view.ViewGroup;
 import android.widget.ExpandableListView;
-import android.widget.ListView;
-
-import com.codebits.sodalit.adapter.FlatExpandableAdapter;
 
 public class ExpandableHeightListView extends ExpandableListView {
 

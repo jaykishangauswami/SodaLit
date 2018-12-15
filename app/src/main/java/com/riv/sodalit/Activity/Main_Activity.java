@@ -1,9 +1,7 @@
-package com.codebits.sodalit.Activity;
+package com.riv.sodalit.Activity;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.support.design.widget.FloatingActionButton;
-import android.support.design.widget.Snackbar;
 import android.support.design.widget.TabLayout;
 import android.support.v4.view.ViewPager;
 import android.view.View;
@@ -17,8 +15,10 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.LinearLayout;
 
-import com.codebits.sodalit.R;
-import com.codebits.sodalit.adapter.MainPagerAdapter;
+import com.google.firebase.messaging.FirebaseMessaging;
+import com.google.firebase.messaging.FirebaseMessagingService;
+import com.riv.sodalit.R;
+import com.riv.sodalit.adapter.MainPagerAdapter;
 
 public class Main_Activity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener, View.OnClickListener {
@@ -33,7 +33,9 @@ public class Main_Activity extends AppCompatActivity
         setContentView(R.layout.activity_main_);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
-
+        Intent i2=new Intent(Main_Activity.this,FirebaseMessagingService.class);
+        startService(i2);
+        FirebaseMessaging.getInstance().setAutoInitEnabled(true);
 
         Init();
 

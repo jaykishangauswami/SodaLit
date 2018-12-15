@@ -1,14 +1,12 @@
-package com.codebits.sodalit.fragments;
+package com.riv.sodalit.fragments;
 
-import android.content.Context;
-import android.net.Uri;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.codebits.sodalit.R;
+import com.riv.sodalit.R;
 
 
 public class ActivityFragment extends Fragment {

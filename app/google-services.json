@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "944509800222",
+    "firebase_url": "https://sodalit-a0875.firebaseio.com",
+    "project_id": "sodalit-a0875",
+    "storage_bucket": "sodalit-a0875.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944509800222:android:5f17817a4a9cd762",
+        "android_client_info": {
+          "package_name": "com.riv.sodalit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944509800222-gt0sq9vib0k101dreu3rovrb5n4u2l1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_AZr4QXOE7Q1-xJNxcOTNxD7eO2wtr20"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

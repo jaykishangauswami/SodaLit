@@ -1,4 +1,4 @@
-package com.codebits.sodalit;
+package com.riv.sodalit;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.codebits.sodalit;
+package com.riv.sodalit;
 
 
 import android.os.Bundle;
@@ -10,7 +10,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.LinearLayout;
 
-import com.codebits.sodalit.adapter.ListEmergancyAdapter;
+import com.riv.sodalit.adapter.ListEmergancyAdapter;
 
 
 /**

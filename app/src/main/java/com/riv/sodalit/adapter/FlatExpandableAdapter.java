@@ -1,4 +1,4 @@
-package com.codebits.sodalit.adapter;
+package com.riv.sodalit.adapter;
 
 import android.content.Intent;
 import android.view.LayoutInflater;
@@ -8,8 +8,8 @@ import android.widget.BaseExpandableListAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.codebits.sodalit.Activity.NotidficationSettingActivity;
-import com.codebits.sodalit.R;
+import com.riv.sodalit.Activity.NotidficationSettingActivity;
+import com.riv.sodalit.R;
 
 public class FlatExpandableAdapter extends BaseExpandableListAdapter {
     @Override

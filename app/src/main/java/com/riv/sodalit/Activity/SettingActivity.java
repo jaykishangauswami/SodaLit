@@ -1,4 +1,4 @@
-package com.codebits.sodalit.Activity;
+package com.riv.sodalit.Activity;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -9,8 +9,8 @@ import android.widget.ExpandableListAdapter;
 import android.widget.ExpandableListView;
 import android.widget.LinearLayout;
 
-import com.codebits.sodalit.R;
-import com.codebits.sodalit.adapter.FlatExpandableAdapter;
+import com.riv.sodalit.R;
+import com.riv.sodalit.adapter.FlatExpandableAdapter;
 
 public class SettingActivity extends AppCompatActivity implements View.OnClickListener {
     LinearLayout llNotificationSetting, llChangePassword, llTellFriend, llFeedback, llsupport, llHowitworks, llFlatVila;

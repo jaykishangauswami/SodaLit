@@ -1,4 +1,4 @@
-package com.codebits.sodalit;
+package com.riv.sodalit;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
